@@ -1,0 +1,4 @@
+pandas==2.0.1
+secure-smtplib==0.1.1
+datetime module
+email module
